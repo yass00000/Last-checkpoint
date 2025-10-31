@@ -1,1 +1,2 @@
 # Last-checkpoint
+Motivated software developer with comprehensive training from an intensive coding bootcamp. Proficient in full-stack development including JavaScript, React, Node.js, and database management. Skilled in agile development, problem-solving, and creating dynamic, user-centered applications. Experienced in collaborating on projects from concept to deployment, eager to leverage hands-on coding experience to contribute effectively to software development teams.​
